@@ -1,6 +1,8 @@
 # Sprint Coders
 
-![image alt](https://github.com/Luacripton/Projeto-Integrador-3/blob/main/API%20SprintCoders.png?raw=true)
+<img width="1046" height="590" alt="image" src="https://github.com/user-attachments/assets/220626ed-e0ee-4932-8891-4b9c95173e28" />
+
+
 
 ### Conheça mais sobre a equipe e nossos projetos pelo nosso site! [Clique aqui](https://sprintcoders.my.canva.site)
 ---
@@ -43,12 +45,14 @@ Os resultados dos projetos devem obedecer ao Aviso Legal disponível no site da 
  | ![image alt](https://img.shields.io/badge/DAX%20(Data%20Analysis%20Expressions)-blue?style=for-the-badge&logo=powerbi&logoColor=white) |  |
 
 # Objetivo do Projeto
-Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma GitHub, visando:
-* Centralizar os trabalhos e projetos;
-* Organizar e estruturar as informações;
-* Versionar e controlar as alterações;
-* Facilitar o compartilhamento e feedback;
-* Desenvolver habilidades técnicas.
+
+Este projeto tem como objetivo desenvolver uma solução em Business Intelligence (BI) para apoiar a gestão de estoques da CPTM, visando:
+
+* Analisar o giro e a cobertura dos estoques;
+* Acompanhar a evolução dos materiais;
+* Identificar materiais críticos e possíveis excessos;
+* Facilitar a visualização e análise dos dados;
+* Apoiar a tomada de decisões na gestão de estoques.
 
 
 ## Tecnologias Utilizadas
@@ -64,33 +68,49 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 
 # Product Backlog
 
-| Rank | Prioridade | User Story                                                                                         | Estimativa | Sprint |
-|------|------------|----------------------------------------------------------------------------------------------------|------------|--------|
-| 1    | Alta       | Como Coordenador do Projeto: Quero acessar os dados da PRF de 2023 e 2024 sobre óbitos e sinistros de trânsito em um dataframe estruturado em Python para construção do dashboard.                                                                      | 3          | 1      |
-| 2    | Alta       | Como Coordenador do Projeto: Quero acessar os dados do SENATRAN de 2023 e 2024 sobre a frota de veículos pesados em um dataframe estruturado em python para construção do dashboard.                                                                      | 3          | 1      |
-| 3    | Alta      | Como Coordenador do Projeto: Quero visualizar um gráfico de correlação de Pearson entre os indicadores de frota e óbitos nos anos de 2023 e 2024, para identificar e analisar a relação entre essas variáveis                                               | 1          | 1      |
-| 4   | Alta      | Como Coordenador do Projeto: Quero visualizar um mapa cloroplético que indique a taxa de letalidade de cada estado e região, para identificar de forma visual as áreas com maior criticidade no trânsito.                                                  | 3          | 1      |
-| 5    | Alta       | Como Coordenador do Projeto: Quero visualizar um gráfico da taxa de letalidade por estado para identificar quais regiões apresentam maior gravidade nos sinistros de trânsito.                                                                      | 2          | 1      |
-| 6    | Média      | Como Coordenador do Projeto: Quero que os dados de 2023 e 2024 sobre frota de veículos, óbitos e sinistros estejam agrupados em um único dataframe para construção do dashboard.                                                                   | 2          | 1      |
-| 7    | Baixa      | Como Coordenador do Projeto: Quero visualizar um protótipo básico do dashboard final através do canva para avaliar a estrutura e funcionalidades iniciais do sistema.                                                                                      | 5          | 1      |
-| 8    | Alta       | Como Coordenador do Projeto: Quero visualizar um gráfico da taxa de mortalidade por estado para identificar quais regiões apresentam maior risco no trânsito.                                                                                                                                 | 2          | 2      |
-| 9   | Alta      | Como Coordenador do Projeto: Quero visualizar um mapa cloroplético que indique a taxa de mortalidade e quantidade de sinistros de cada estado e região, para identificar de forma visual as áreas com maior criticidade no trânsito.          | 3          | 3      |
-| 10    | Alta       | Como Coordenador do Projeto: Quero visualizar a análise de eficiência em segurança viária utilizando o modelo DEA para idetificar os 20 municípios com melhor desempenho no país, por meio de um dataframe e gráfico gerados em Python.                          | 2          | 2      |
-| 11    | Média      | Como Coordenador do Projeto: Quero visualizar um gráfico que identifique os dias da semana e períodos do dia (manhã, tarde e noite) com maior probabilidade de ocorrência de sinistros de trânsito, para apoiar análises e tomadas de decisão.                   | 2          | 2      |
-| 12   | Alta      | Como Coordenador do Projeto: Quero ver a população total do recorte selecionado para contextualizar os indicadores apresentados.                                                                                                                                 | 1          | 2      |
-| 13   | Alta      | Como Coordenador do Projeto: Quero aplicar filtros de ano, estado, e região para analisar os dados de forma personalizada e comparativa.                                                                                                             | 2          | 2      |
-| 14   | Alta      | Como Coordenador do Projeto: Quero visualizar um layout limpo, claro e organizado no dashboard para facilitar a interpretação dos dados e tornar a análise mais intuitiva e eficiente.                 | 2          | 3      |
-| 15   | Alta      | Como Coordenador do Projeto: Quero receber um relatório final com as principais descobertas e recomendações para embasar decisões e políticas públicas.                                                                                                      | 15          | 3      |
-| 16   | Alta      | Como Coordenador do Projeto: Quero visualizar um relatório técnico detalhado para acompanhar os indicadores de eficiência viária, interpretar os resultados do modelo DEA e apoiar a tomada de decisões estratégicas no projeto.                                                                                                       | 15          | 3      |
+# Product Backlog
+
+| Rank | Prioridade | User Story | Status | Sprint |
+|------|------------|------------|--------|--------|
+| 1 | Alta | Como Coodenador do projeto: Quero uma base de dados de estoque extraída do ERP ALVO, tratada e estruturada, para garantir informações confiáveis para a análise dos estoques da CPTM. | Em andamento | 1 |
+| 2 | Alta | Como Usuário: Necessito de dados consistentes e organizados para utilizar os indicadores e visualizações do dashboard com segurança. | Em andamento | 1 |
+| 3 | Alta | Como Coodenador do projeto: Quero que os dados sejam tratados e transformados antes da análise, para que o dashboard utilize informações padronizadas e confiáveis. | Em andamento | 1 |
+| 4 | Alta | Como Usuário: Necessito visualizar o protótipo da solução para compreender como serão organizadas as informações e os principais indicadores. | Em andamento | 1 |
+| 5 | Alta | Como Coodenador do projeto: Quero acompanhar os principais indicadores de estoque, como giro, cobertura e estoque médio, para apoiar a tomada de decisão. | Em andamento | 1 |
+| 6 | Média | Como Usuário: Necessito de uma preparação inicial em slides que apresente o projeto, os participantes, suas funções e o andamento da primeira sprint. | Em andamento | 1 |
+| 7 | Média | Como Coodenador do projeto: Quero que os artefatos e códigos do projeto sejam organizados e versionados, para facilitar o acompanhamento do desenvolvimento. | Em andamento | 1 |
+| 8 | Média | Como Usuário: Necessito que o planejamento das atividades esteja registrado e acompanhado, para visualizar o progresso do projeto. | Em andamento | 1 |
+| 9 | Alta | Como Coodenador do projeto: Quero um dashboard estruturado que apresente uma visão geral do estoque, para acompanhar quantidade, valor, estoque médio e indicadores gerais de giro. | Pendente | 2 |
+| 10 | Alta | Como Usuário: Necessito de gráficos interativos para visualizar a evolução do estoque, entradas, saídas e comparativos entre períodos. | Pendente | 2 |
+| 11 | Alta | Como Coodenador do projeto: Quero identificar os materiais com maior impacto financeiro, para apoiar decisões de controle e otimização dos recursos. | Pendente | 2 |
+| 12 | Alta | Como Usuário: Necessito de um ranking de materiais por relevância financeira, para localizar rapidamente os itens de maior impacto no estoque. | Pendente | 2 |
+| 13 | Alta | Como Coodenador do projeto: Quero visualizar o giro e o tempo médio de permanência dos materiais, para identificar itens de alta e baixa rotatividade. | Pendente | 2 |
+| 14 | Média | Como Usuário: Necessito de filtros dinâmicos por tipo de material, almoxarifado, período e centro de custo, para realizar análises específicas. | Pendente | 2 |
+| 15 | Média | Como Coodenador do projeto: Quero uma identidade visual clara e padronizada no dashboard, para facilitar a leitura dos indicadores e tornar a solução mais intuitiva. | Pendente | 2 |
+| 16 | Alta | Como Cliente: Quero identificar materiais classificados pela Curva ABC, para reconhecer os itens de maior criticidade e impacto. | Pendente | 3 |
+| 17 | Alta | Como Coodenador do projeto: Necessito de alertas para estoque parado, excesso de estoque e materiais críticos com baixo nível, para localizar riscos rapidamente. | Pendente | 3 |
+| 18 | Alta | Como Cliente: Quero calcular a cobertura de estoque, para avaliar se o nível disponível está adequado ao consumo. | Pendente | 3 |
+| 19 | Média | Como Coodenador do projeto: Necessito analisar padrões de consumo e possíveis períodos sazonais, para apoiar o planejamento de reposição. | Pendente | 3 |
+| 20 | Média | Como Cliente: Quero identificar oportunidades de otimização e redução de custos, para melhorar a eficiência da gestão de estoques e do capital imobilizado. | Pendente | 3 |
+| 21 | Alta | Como Coodenador do projeto: Necessito de um dashboard completo, com dados, indicadores, filtros, gráficos e alertas validados, para realizar as análises propostas pelo cliente. | Pendente | 3 |
+| 22 | Alta | Como Cliente: Quero que os resultados do dashboard sejam analisados e validados, para garantir que os indicadores e informações apresentados estejam corretos. | Pendente | 3 |
+| 23 | Alta | Como Coodenador do projeto: Necessito que os códigos, dados tratados e dashboard estejam funcionando de forma integrada, para garantir a entrega de uma solução funcional. | Pendente | 3 |
+| 24 | Alta | Como Cliente: Quero um relatório final que documente o problema, a metodologia, os dados, o desenvolvimento, os indicadores, os resultados e as conclusões do projeto. | Pendente | 3 |
+| 25 | Alta | Como Coodenador do projeto: Necessito de uma apresentação em slides finalizada para explicar o projeto, a solução desenvolvida, os indicadores e os resultados e também um video do projeto finalizado. | Pendente | 3 |
+| 26 | Alta | Como Cliente: Quero que a solução seja revisada e testada antes da Feira de Soluções, para garantir uma entrega estável e sem erros. | Pendente | 4 |
+| 27 | Alta | Como Coodenador do projeto: Necessito que o dashboard esteja funcionando durante a apresentação, para demonstrar a solução de forma interativa. | Pendente | 4 |
+| 28 | Alta | Como Cliente: Quero receber o relatório final impresso, para que o material possa ser consultado e avaliado durante a entrega. | Pendente | 4 |
+| 29 | Alta | Como Coodenador do projeto: Necessito dos slides, dashboard e demais materiais organizados para a apresentação final na Feira de Soluções. | Pendente | 4 |
+| 30 | Alta | Como Cliente: Quero uma solução de BI funcional, estruturada e aderente às necessidades da gestão de estoques da CPTM, para apoiar a tomada de decisão e futuras evoluções. | Pendente | 4 |
 
 
   
 # Registro das Sprints
 
-| Sprint            | Previsão   | Status   | Histórico |
-|-------------------|------------|----------|-----------|
-| 00                | 02/09/2026 | a fazer| [MVP](https://drive.google.com/file/d/1kyGp1E0sGTeqIpghWMxGo7wkRPgJRN8S/view?usp=sharing)  |
-| 01                | 30/09/2026 | a fazer| [MVP](MVP/sp1.md)  |
-| 02                | 28/10/2026 | a fazer| [MVP](MVP/sp2.md)  |
-| 03                | 25/11/2025 | a fazer| [MVP](MVP/sp3.md)  |
-| Feira de Soluções | 03/12/2026 | a fazer  |  |
+| Sprint            | Previsão   | Status    | Histórico |
+|-------------------|------------|-----------|-----------|
+| 00                | 02/09/2026 | Concluido | [Vídeo de Entendimento](https://youtu.be/Aowro9H3gIs?feature=shared) |
+| 01                | 30/09/2026 | a fazer   | [Sprint 01](MVP/sp1.md) |
+| 02                | 28/10/2026 | a fazer |  [Sprint 02](MVP/sp2.md) |
+| 03                | 25/11/2026 | a fazer | [Sprint 03](MVP/sp3.md) |
+| Feira de Soluções | 03/12/2026 | a fazer | |

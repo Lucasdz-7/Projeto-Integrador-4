@@ -66,7 +66,6 @@ Este projeto tem como objetivo desenvolver uma solução em Business Intelligenc
 
 
 
-# Product Backlog
 
 # Product Backlog
 

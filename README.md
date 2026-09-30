@@ -115,10 +115,10 @@ Este projeto tem como objetivo desenvolver uma solução em Business Intelligenc
   
 # Registro das Sprints
 
-| Sprint            | Previsão   | Status    | Histórico |
-|-------------------|------------|-----------|-----------|
-| 00                | 02/09/2026 | Concluido | [Vídeo de Entendimento](https://youtu.be/Aowro9H3gIs?feature=shared) |
-| 01                | 30/09/2026 | a fazer   | [Sprint 01](MVP/sp1.md) |
-| 02                | 28/10/2026 | a fazer |  [Sprint 02](MVP/sp2.md) |
-| 03                | 25/11/2026 | a fazer | [Sprint 03](MVP/sp3.md) |
-| Feira de Soluções | 03/12/2026 | a fazer | |
+| Sprint | Previsão | Status | Histórico |
+|---|---|---|---|
+| 00 | 02/09/2026 | Concluído | [Vídeo de Entendimento](https://youtu.be/Aowro9H3gIs?feature=shared) |
+| 01 | 30/09/2026 | Concluído | [📊 Dashboard](https://app.powerbi.com/groups/me/reports/5dc83e98-8aa2-4fde-b3b8-b1aaf7e07ff3/7b406de1e54872c1e6a9?experience=power-bi) • [🎨 Protótipo](https://sprintcodersfatec.my.canva.site/) • [🐍 MVP](https://colab.research.google.com/drive/1_nKwH3hCgXDIKo3hJ1kF44gpSxH5-2LS?usp=sharing) |
+| 02 | 28/10/2026 | A fazer | |
+| 03 | 25/11/2026 | A fazer | |
+| Feira de Soluções | 03/12/2026 | A fazer | |

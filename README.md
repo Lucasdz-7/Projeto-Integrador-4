@@ -10,7 +10,7 @@ Aqui você pode acessar os principais entregáveis desenvolvidos pela equipe em 
 
 | 📊 Dashboard | 🎨 Protótipo | 🐍 MVP |
 |:---:|:---:|:---:|
-| [![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard%20Sprint%201-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://app.powerbi.com/groups/me/reports/5dc83e98-8aa2-4fde-b3b8-b1aaf7e07ff3/7b406de1e54872c1e6a9?experience=power-bi) | [![Canva](https://img.shields.io/badge/Canva-Prot%C3%B3tipo%20Sprint%201-00C4CC?style=for-the-badge&logo=canva&logoColor=white)](https://sprintcodersfatec.my.canva.site/) | [![Google Colab](https://img.shields.io/badge/Google%20Colab-MVP%20Sprint%201-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)](COLE_AQUI_O_LINK_DO_COLAB) | |
+| [![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard%20Sprint%201-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://app.powerbi.com/groups/me/reports/5dc83e98-8aa2-4fde-b3b8-b1aaf7e07ff3/7b406de1e54872c1e6a9?experience=power-bi) | [![Canva](https://img.shields.io/badge/Canva-Prot%C3%B3tipo%20Sprint%201-00C4CC?style=for-the-badge&logo=canva&logoColor=white)](https://sprintcodersfatec.my.canva.site/) | [![Google Colab](https://img.shields.io/badge/Google%20Colab-MVP%20Sprint%201-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)](https://colab.research.google.com/drive/1_nKwH3hCgXDIKo3hJ1kF44gpSxH5-2LS?usp=sharing) |
 
 
 ### Conheça mais sobre a equipe e nossos projetos pelo nosso site! [Clique aqui](https://sprintcoders.my.canva.site)

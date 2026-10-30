@@ -16,7 +16,7 @@ Aqui você pode acessar os principais entregáveis desenvolvidos pela equipe em 
 
 | 📊 Dashboard | 🎨 Relatório | 🐍 MVP |
 |:---:|:---:|:---:|
-[![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard%20Sprint%202-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://app.powerbi.com/groups/me/reports/7fdc52a4-f991-4235-8927-aaa9f7cdd7c1/c917122f4c2d82261a51?experience=power-bi) | [![Word](https://img.shields.io/badge/Word-Relat%C3%B3rio%20Sprint%202-2B579A?style=for-the-badge&logo=microsoftword&logoColor=white)](Relat%C3%B3rio%20de%20API.docx) | [![Google Colab](https://img.shields.io/badge/Google%20Colab-MVP%20Sprint%201-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)](https://colab.research.google.com/drive/1_nKwH3hCgXDIKo3hJ1kF44gpSxH5-2LS?usp=sharing) |
+[![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard%20Sprint%202-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://app.powerbi.com/groups/me/reports/7fdc52a4-f991-4235-8927-aaa9f7cdd7c1/c917122f4c2d82261a51?experience=power-bi) | [![Word](https://img.shields.io/badge/Word-Relat%C3%B3rio%20Sprint%202-2B579A?style=for-the-badge&logo=microsoftword&logoColor=white)](Relat%C3%B3rio%20de%20API.docx) | [![Google Colab](https://img.shields.io/badge/Google%20Colab-MVP%20Sprint%202-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)](https://colab.research.google.com/github/Lucasdz-7/Projeto-Integrador-4/blob/main/C%C3%B3digoAPI4.ipynb)
 
 
 ### Conheça mais sobre a equipe e nossos projetos pelo nosso site! [Clique aqui](https://sprintcoders.my.canva.site)
@@ -86,21 +86,21 @@ Este projeto tem como objetivo desenvolver uma solução em Business Intelligenc
 
 | Rank | Prioridade | User Story | Status | Sprint |
 |------|------------|------------|--------|--------|
-| 1 | Alta | Como Coodenador do projeto: Quero uma base de dados de estoque extraída do ERP ALVO, tratada e estruturada, para garantir informações confiáveis para a análise dos estoques da CPTM. | Em andamento | 1 |
-| 2 | Alta | Como Usuário: Necessito de dados consistentes e organizados para utilizar os indicadores e visualizações do dashboard com segurança. | Em andamento | 1 |
-| 3 | Alta | Como Coodenador do projeto: Quero que os dados sejam tratados e transformados antes da análise, para que o dashboard utilize informações padronizadas e confiáveis. | Em andamento | 1 |
-| 4 | Alta | Como Usuário: Necessito visualizar o protótipo da solução para compreender como serão organizadas as informações e os principais indicadores. | Em andamento | 1 |
-| 5 | Alta | Como Coodenador do projeto: Quero acompanhar os principais indicadores de estoque, como giro, cobertura e estoque médio, para apoiar a tomada de decisão. | Em andamento | 1 |
-| 6 | Média | Como Usuário: Necessito de uma preparação inicial em slides que apresente o projeto, os participantes, suas funções e o andamento da primeira sprint. | Em andamento | 1 |
-| 7 | Média | Como Coodenador do projeto: Quero que os artefatos e códigos do projeto sejam organizados e versionados, para facilitar o acompanhamento do desenvolvimento. | Em andamento | 1 |
-| 8 | Média | Como Usuário: Necessito que o planejamento das atividades esteja registrado e acompanhado, para visualizar o progresso do projeto. | Em andamento | 1 |
-| 9 | Alta | Como Coodenador do projeto: Quero um dashboard estruturado que apresente uma visão geral do estoque, para acompanhar quantidade, valor, estoque médio e indicadores gerais de giro. | Pendente | 2 |
-| 10 | Alta | Como Usuário: Necessito de gráficos interativos para visualizar a evolução do estoque, entradas, saídas e comparativos entre períodos. | Pendente | 2 |
-| 11 | Alta | Como Coodenador do projeto: Quero identificar os materiais com maior impacto financeiro, para apoiar decisões de controle e otimização dos recursos. | Pendente | 2 |
-| 12 | Alta | Como Usuário: Necessito de um ranking de materiais por relevância financeira, para localizar rapidamente os itens de maior impacto no estoque. | Pendente | 2 |
-| 13 | Alta | Como Coodenador do projeto: Quero visualizar o giro e o tempo médio de permanência dos materiais, para identificar itens de alta e baixa rotatividade. | Pendente | 2 |
-| 14 | Média | Como Usuário: Necessito de filtros dinâmicos por tipo de material, almoxarifado, período e centro de custo, para realizar análises específicas. | Pendente | 2 |
-| 15 | Média | Como Coodenador do projeto: Quero uma identidade visual clara e padronizada no dashboard, para facilitar a leitura dos indicadores e tornar a solução mais intuitiva. | Pendente | 2 |
+| 1 | Alta | Como Coodenador do projeto: Quero uma base de dados de estoque extraída do ERP ALVO, tratada e estruturada, para garantir informações confiáveis para a análise dos estoques da CPTM. | concluído | 1 |
+| 2 | Alta | Como Usuário: Necessito de dados consistentes e organizados para utilizar os indicadores e visualizações do dashboard com segurança. | concluído | 1 |
+| 3 | Alta | Como Coodenador do projeto: Quero que os dados sejam tratados e transformados antes da análise, para que o dashboard utilize informações padronizadas e confiáveis. | concluído | 1 |
+| 4 | Alta | Como Usuário: Necessito visualizar o protótipo da solução para compreender como serão organizadas as informações e os principais indicadores. | concluído | 1 |
+| 5 | Alta | Como Coodenador do projeto: Quero acompanhar os principais indicadores de estoque, como giro, cobertura e estoque médio, para apoiar a tomada de decisão. | concluído | 1 |
+| 6 | Média | Como Usuário: Necessito de uma preparação inicial em slides que apresente o projeto, os participantes, suas funções e o andamento da primeira sprint. | concluído | 1 |
+| 7 | Média | Como Coodenador do projeto: Quero que os artefatos e códigos do projeto sejam organizados e versionados, para facilitar o acompanhamento do desenvolvimento. | concluído | 1 |
+| 8 | Média | Como Usuário: Necessito que o planejamento das atividades esteja registrado e acompanhado, para visualizar o progresso do projeto. | concluído | 1 |
+| 9 | Alta | Como Coodenador do projeto: Quero um dashboard estruturado que apresente uma visão geral do estoque, para acompanhar quantidade, valor, estoque médio e indicadores gerais de giro. | concluído | 2 |
+| 10 | Alta | Como Usuário: Necessito de gráficos interativos para visualizar a evolução do estoque, entradas, saídas e comparativos entre períodos. | concluído | 2 |
+| 11 | Alta | Como Coodenador do projeto: Quero identificar os materiais com maior impacto financeiro, para apoiar decisões de controle e otimização dos recursos. | concluído | 2 |
+| 12 | Alta | Como Usuário: Necessito de um ranking de materiais por relevância financeira, para localizar rapidamente os itens de maior impacto no estoque. | concluído | 2 |
+| 13 | Alta | Como Coodenador do projeto: Quero visualizar o giro e o tempo médio de permanência dos materiais, para identificar itens de alta e baixa rotatividade. | concluído | 2 |
+| 14 | Média | Como Usuário: Necessito de filtros dinâmicos por tipo de material, almoxarifado, período e centro de custo, para realizar análises específicas. | concluído | 2 |
+| 15 | Média | Como Coodenador do projeto: Quero uma identidade visual clara e padronizada no dashboard, para facilitar a leitura dos indicadores e tornar a solução mais intuitiva. | concluído | 2 |
 | 16 | Alta | Como Cliente: Quero identificar materiais classificados pela Curva ABC, para reconhecer os itens de maior criticidade e impacto. | Pendente | 3 |
 | 17 | Alta | Como Coodenador do projeto: Necessito de alertas para estoque parado, excesso de estoque e materiais críticos com baixo nível, para localizar riscos rapidamente. | Pendente | 3 |
 | 18 | Alta | Como Cliente: Quero calcular a cobertura de estoque, para avaliar se o nível disponível está adequado ao consumo. | Pendente | 3 |
@@ -125,6 +125,6 @@ Este projeto tem como objetivo desenvolver uma solução em Business Intelligenc
 |---|---|---|---|
 | 00 | 02/09/2026 | Concluído | [Vídeo de Entendimento](https://youtu.be/Aowro9H3gIs?feature=shared) |
 | 01 | 30/09/2026 | Concluído | [📊 Dashboard](https://app.powerbi.com/groups/me/reports/5dc83e98-8aa2-4fde-b3b8-b1aaf7e07ff3/7b406de1e54872c1e6a9?experience=power-bi) • [🎨 Protótipo](https://sprintcodersfatec.my.canva.site/) • [🐍 MVP](https://colab.research.google.com/drive/1_nKwH3hCgXDIKo3hJ1kF44gpSxH5-2LS?usp=sharing) |
-| 02 | 28/10/2026 | A fazer | |
+| 02 | 28/10/2026 | Concluído | [📊 Dashboard](https://app.powerbi.com/groups/me/reports/7fdc52a4-f991-4235-8927-aaa9f7cdd7c1/c917122f4c2d82261a51?experience=power-bi) • [📄 Relatório](Relat%C3%B3rio%20de%20API.docx) • [🐍 MVP](https://colab.research.google.com/github/Lucasdz-7/Projeto-Integrador-4/blob/main/C%C3%B3digoAPI4.ipynb) |
 | 03 | 25/11/2026 | A fazer | |
 | Feira de Soluções | 03/12/2026 | A fazer | |

@@ -14,9 +14,9 @@ Aqui você pode acessar os principais entregáveis desenvolvidos pela equipe em 
 
 ### 🚀 Sprint 2
 
-| 📊 Dashboard | 🎨 Relatório | 🐍 MVP |
-|:---:|:---:|:---:|
-[![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard%20Sprint%202-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://app.powerbi.com/view?r=eyJrIjoiMTJlNmJmYTgtYmU1YS00NDY2LThkNWEtYjdlMWEzNmU4MmZmIiwidCI6ImVhYmU2NGM1LTY4ZjUtNGE3Ni04MzAxLTk1NzdhNjc5ZTQ0OSIsImMiOjR9) | [![Word](https://img.shields.io/badge/Word-Relat%C3%B3rio%20Sprint%202-2B579A?style=for-the-badge&logo=microsoftword&logoColor=white)](Relat%C3%B3rio%20de%20API.docx) | [![Google Colab](https://img.shields.io/badge/Google%20Colab-MVP%20Sprint%202-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)](https://colab.research.google.com/github/Lucasdz-7/Projeto-Integrador-4/blob/main/C%C3%B3digoAPI4.ipynb)
+| 📊 Dashboard | 📄 Relatório | 🧬 MVP |
+| :---: | :---: | :---: |
+| <a href="https://app.powerbi.com/view?r=eyJrIjoiMTJlNmJmYTgtYmU1YS00NDY2LThkNWEtYjdlMWEzNmU4MmZmIiwidCI6ImVhYmU2NGM1LTY4ZjUtNGE3Ni04MzAxLTk1NzdhNjc5ZTQ0OSIsImMiOjR9" target="_blank"><img src="https://img.shields.io/badge/Power_BI-Dashboard_Sprint_2-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"></a> | [![Word](https://img.shields.io/badge/Word-Relatório_Sprint_2-2B579A?style=for-the-badge&logo=microsoftword&logoColor=white)](Relat%C3%B3rio%20de%20API.docx) | [![Google Colab](https://img.shields.io/badge/Google_Colab-MVP_Sprint_2-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)](https://colab.research.google.com/github/Lucasdz-7/Projeto-Integrador-4/blob/main/C%C3%B3digoAPI4.ipynb) |
 
 
 ### Conheça mais sobre a equipe e nossos projetos pelo nosso site! [Clique aqui](https://sprintcoders.my.canva.site)
